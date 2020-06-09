@@ -5,9 +5,6 @@
 /.pnp
 .pnp.js
 
-/public
-/src_expert
-
 # testing
 /coverage
 
